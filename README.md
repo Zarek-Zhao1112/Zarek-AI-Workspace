@@ -6,7 +6,7 @@
 
 ## 仓库目的
 
-让任何AI工具（Claude、Gemini、Cursor、Mimo、ChatGPT）都能快速了解我，帮我完成工作任务。
+让任何AI工具（Claude、Gemini、Cursor、Mimo、ChatGPT）都能快速了解我，帮我完成跨境电商运营工作。
 
 ---
 
