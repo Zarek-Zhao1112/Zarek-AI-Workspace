@@ -84,6 +84,24 @@
 
 - [ABOUT_ME] 更新优势表格，补充7.2新增能力实例
 
+## 2026-07-03 v2.6.0
+
+### 新增
+
+- [INTERNSHIP] 新增7月3日工作记录：创建marketplace-analysis skill、重新生成A4RE报告、优化卖家分析页面
+- [ABOUT_ME] 新增2项能力画像：分层分析能力、工具标准化能力，能力总数达67项
+
+### 修改
+
+- [KNOWLEDGE] 更新实践经验，新增分层分析框架和SBS/SBN差异化运营策略
+- [PROJECT] 更新已完成功能列表，新增marketplace-analysis skill
+
+### 交付
+
+- 创建marketplace-analysis skill v1.0，包含SBS/SBN分层分析框架
+- 重新生成A4RE运营报告，按履约方式分层展示数据和建议
+- 优化卖家分析页面UI，调整SKU销售数据表字段顺序
+
 ## 变更历史
 
 | 日期 | 版本 | 主要变更 |
