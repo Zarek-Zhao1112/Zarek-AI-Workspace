@@ -88,6 +88,22 @@ GitHub token 我会单独发给你。
 读完后等我说今天做了什么。
 ```
 
+### 使用流程
+
+1. **说"今天做了什么"** → AI生成日报（分析版+复制版）
+2. **说"上传云端"** → AI自动更新8个文件并推送到GitHub
+
+### 需要同步的8个文件
+
+- CAREER.md（职业目标）
+- ABOUT_ME.md（优势画像）
+- CHANGELOG.md（变更记录）
+- INTERNSHIP.md（实习工作记录）
+- KNOWLEDGE.md（业务知识）
+- PROJECT.md（项目详情）
+- README.md（实习成果）
+- WEEKLY_GOAL.md（周目标）
+
 ---
 
 ## 使用说明

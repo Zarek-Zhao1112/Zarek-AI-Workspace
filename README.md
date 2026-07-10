@@ -28,7 +28,17 @@
 1. 告诉AI"今天做了XXX"
 2. AI自动读取画像和写作规则
 3. 生成分析版和复制版日报
-4. 更新画像并推送到GitHub
+4. 说"上传云端"，AI自动更新8个文件并推送到GitHub
+
+**需要同步的8个文件**：
+- CAREER.md（职业目标）
+- ABOUT_ME.md（优势画像）
+- CHANGELOG.md（变更记录）
+- INTERNSHIP.md（实习工作记录）
+- KNOWLEDGE.md（业务知识）
+- PROJECT.md（项目详情）
+- README.md（实习成果）
+- WEEKLY_GOAL.md（周目标）
 
 ---
 
